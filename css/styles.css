@@ -45,6 +45,7 @@ body {
 .box1{
   background-color: rgb(255, 187, 0);
   grid-column: 1/4;
+  border-radius: 10px;
 }
 
 .box2{
